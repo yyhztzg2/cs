@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1044" started-at="2017-07-17T06:06:50Z" finished-at="2017-07-17T06:06:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1044" started-at="2017-07-17T06:06:50Z" finished-at="2017-07-17T06:06:51Z">
+      <class name="DDT.WordPressLoginExcel">
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="loginToWordpress" duration-ms="8" started-at="2017-07-17T14:06:51Z" data-provider="wordpressData" finished-at="2017-07-17T14:06:51Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-07-17T14:06:51Z" finished-at="2017-07-17T14:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="loginToWordpress" duration-ms="2" started-at="2017-07-17T14:06:51Z" data-provider="wordpressData" finished-at="2017-07-17T14:06:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="loginToWordpress" duration-ms="1" started-at="2017-07-17T14:06:51Z" data-provider="wordpressData" finished-at="2017-07-17T14:06:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-07-17T14:06:51Z" finished-at="2017-07-17T14:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-07-17T14:06:51Z" finished-at="2017-07-17T14:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="loginToWordpress" duration-ms="1" started-at="2017-07-17T14:06:51Z" data-provider="wordpressData" finished-at="2017-07-17T14:06:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DDT.WordPressLoginExcel@457e2f02]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-07-17T14:06:51Z" finished-at="2017-07-17T14:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DDT.WordPressLoginExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

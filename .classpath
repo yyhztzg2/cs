@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/【阶段08】Spring/day38_Spring04/代码/day38_ssh1/WebContent/WEB-INF/lib/log4j-core-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/root/.m2/repository/com/google/guava/guava/21.0/guava-21.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.guava"/>
+			<attribute name="maven.artifactId" value="guava"/>
+			<attribute name="maven.version" value="21.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/【阶段08】Spring/day38_Spring04/代码/day38_ssh2/WebContent/WEB-INF/lib/hibernate-core-5.0.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/【阶段08】Spring/day38_Spring04/代码/day38_ssh2/WebContent/WEB-INF/lib/log4j-core-2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/代码/day01/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/代码/day01/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/new/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/new/poi-3.17-beta1/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/new/extentreports-2.05.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
